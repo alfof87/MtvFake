@@ -11,7 +11,7 @@ function App2() {
         <div className="flexSongs">
           <img src="/images/cassetta.gif"></img>
           <div>
-            <Song author="Eric Clapton" title="Cocaine" />
+            <Song number="1" author="Eric Clapton" title="Cocaine" />
             <audio controls type="audio/mp3" src="Cocaine.mp3"></audio>
           </div>
         </div>
@@ -19,7 +19,7 @@ function App2() {
         <div className="flexSongs">
           <img src="/images/cassetta.gif"></img>
           <div>
-            <Song author="Queen" title="Don't Stop Me Now" />
+            <Song number="2" author="Queen" title="Don't Stop Me Now" />
             <audio controls type="audio/mp3" src="Queen.mp3"></audio>
           </div>
         </div>
@@ -27,7 +27,7 @@ function App2() {
         <div className="flexSongs">
           <img src="/images/cassetta.gif"></img>
           <div>
-            <Song author="Michael Jackson)" title="Bad" />
+            <Song number="3" author="Michael Jackson)" title="Bad" />
             <audio controls type="audio/mp3" src="Bad.mp3"></audio>
           </div>
         </div>
@@ -35,7 +35,7 @@ function App2() {
         <div className="flexSongs">
           <img src="/images/cassetta.gif"></img>
           <div>
-            <Song author="Eminem" title="My Name Is" />
+            <Song number="4" author="Eminem" title="My Name Is" />
             <audio controls type="audio/mp3" src="Name.mp3"></audio>
           </div>
         </div>
@@ -43,7 +43,7 @@ function App2() {
         <div className="flexSongs">
           <img src="/images/cassetta.gif"></img>
           <div>
-            <Song author="Madonna" title="Don't Tell Me" />
+            <Song number="5" author="Madonna" title="Don't Tell Me" />
             <audio controls type="audio/mp3" src="Tell.mp3"></audio>
           </div>
         </div>
